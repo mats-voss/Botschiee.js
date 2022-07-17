@@ -1,0 +1,6 @@
+{
+  "name": "Botschiee",
+  "language": "typescript",
+  "manager": "yarn",
+  "prefix": "?"
+}
